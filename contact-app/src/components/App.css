@@ -1,0 +1,52 @@
+.main {
+  color: #ff6e40;
+  margin-top: 6em;
+}
+
+.center {
+  justify-content: center;
+  padding: 20px;
+  background-color: #1e3d59;
+  color: #f5f0e1;
+  size: 50px;
+}
+
+.ui.search input {
+  box-sizing: inherit;
+  border: 1px solid rgba(34, 36, 38, 0.15);
+  box-shadow: 0 0 0 0 transparent inset;
+  transition: color 0.1s ease, border-color 0.1s ease;
+  transition: color 0.1s ease, border-color 0.1s ease;
+
+  font-size: 1em;
+  border-radius: 0.3;
+  border-radius: 0.28571429rem;
+  border: 1px solid rgba(34, 36, 38, 0.15);
+  line-height: 1.21428571em;
+  padding: 0.67857143em 1em;
+}
+
+.item {
+  padding: 25px 0px !important;
+}
+
+i.icon {
+  float: right;
+  font-size: 20px;
+  cursor: pointer;
+}
+.ui.form .field > label {
+  display: block;
+  margin: 0 0 0.28571429rem 0;
+  color: #039fbe;
+  font-size: 0.92857143em;
+  font-weight: 700;
+  text-transform: none;
+}
+
+.ui.blue.button:hover,
+.ui.blue.buttons .button {
+  background-color: #f5f0e1;
+  color: #1e3d59;
+  text-shadow: none;
+}
