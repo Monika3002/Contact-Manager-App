@@ -2,7 +2,7 @@
 
 Welcome to the Contact Manager App, your ultimate solution for effortlessly organizing and keeping track of your contacts' essential details!
 
-[![Contact Manager App](https://your-image-url-here.png)](https://contact-manager-app-tawny.vercel.app/)
+[Contact Manager App](https://contact-manager-app-tawny.vercel.app/)
 
 ## Features ✨
 
@@ -19,8 +19,8 @@ Welcome to the Contact Manager App, your ultimate solution for effortlessly orga
 
 ## Screenshots 📸
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![](https://github.com/Monika3002/Contact-Manager-App/blob/main/Screenshot2.jpg)
+![](https://github.com/Monika3002/Contact-Manager-App/blob/main/Screenshot1.jgp)
 
 ## Contributing 🤝
 
