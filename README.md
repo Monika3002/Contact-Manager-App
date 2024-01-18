@@ -17,9 +17,11 @@ Welcome to the Contact Manager App, your ultimate solution for effortlessly orga
 2. Install dependencies: `npm install`
 3. Run the app: `npm start`
 
-## Screenshots 📸
+
 
 ![](https://github.com/Monika3002/Contact-Manager-App/blob/main/Screenshot2.jpg)
+
+
 ![](https://github.com/Monika3002/Contact-Manager-App/blob/main/Screenshot1.jgp)
 
 ## Contributing 🤝
